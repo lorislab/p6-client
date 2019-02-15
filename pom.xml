@@ -194,7 +194,7 @@
         <repository>
             <id>bintray</id>
             <name>Release</name>
-            <url>https://api.bintray.com/maven/lorislab/maven/p6/;publish=1</url>
+            <url>https://api.bintray.com/maven/lorislab/maven/p6-client/;publish=1</url>
         </repository>
         <snapshotRepository>
             <id>bintray</id>
